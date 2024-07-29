@@ -1,0 +1,90 @@
+{
+    "_id" : ObjectId("63b6beaa254566578fab968a"),
+    "pr_name" : "ສາລະວັນ",
+    "pr_name_en" : "Salavan"
+}
+{
+    "_id" : ObjectId("63b6beaa1fa409684ce03607"),
+    "pr_name" : "ຈຳປາສັກ",
+    "pr_name_en" : "Champasak"
+}
+{
+    "_id" : ObjectId("63b6beaaa2a7f704f2eb3cb0"),
+    "pr_name" : "ວຽງຈັນ",
+    "pr_name_en" : "Vientiane"
+}
+{
+    "_id" : ObjectId("63b6beaa332a0336e2da3298"),
+    "pr_name" : "ໄຊຍະບູລີ",
+    "pr_name_en" : "Xaignabouli"
+}
+{
+    "_id" : ObjectId("63b6beaa040e169aa51144be"),
+    "pr_name" : "ຄຳມ່ວນ",
+    "pr_name_en" : "Khammouan"
+}
+{
+    "_id" : ObjectId("63b6beaac2dade111c9c2c42"),
+    "pr_name" : "ຫລວງນ້ຳທາ",
+    "pr_name_en" : "Louang Namtha"
+}
+{
+    "_id" : ObjectId("63b6beaa4b1f9a8111e2387a"),
+    "pr_name" : "ຜົ້ງສາລີ",
+    "pr_name_en" : "Phongsali"
+}
+{
+    "_id" : ObjectId("63b6beaaeb76f67f4f3cff9d"),
+    "pr_name" : "ນະຄອນຫລວງວຽງຈັນ",
+    "pr_name_en" : "Vientiane capital"
+}
+{
+    "_id" : ObjectId("63b6beaab2ea9dc3e02f2da2"),
+    "pr_name" : "ບໍ່ແກ້ວ",
+    "pr_name_en" : "Bokeo"
+}
+{
+    "_id" : ObjectId("63b6beaa0668a43f906d9957"),
+    "pr_name" : "ຊຽງຂວາງ",
+    "pr_name_en" : "Xiangkhoang"
+}
+{
+    "_id" : ObjectId("63b6beaa6f7379e3e762ec18"),
+    "pr_name" : "ຫຼວງພະບາງ",
+    "pr_name_en" : "Louang Phabang"
+}
+{
+    "_id" : ObjectId("63b6beaa43cfbd28e9ac7c7a"),
+    "pr_name" : "ເຊກອງ",
+    "pr_name_en" : "Xekong"
+}
+{
+    "_id" : ObjectId("63b6beaa74c58803fc7bb311"),
+    "pr_name" : "ສະຫວັນນະເຂດ",
+    "pr_name_en" : "Savannakhet"
+}
+{
+    "_id" : ObjectId("63b6beaa2f55c5298a04cd37"),
+    "pr_name" : "ອຸດົມໄຊ",
+    "pr_name_en" : "Oudomxai"
+}
+{
+    "_id" : ObjectId("63b6beaa157a430ad1cd4ea8"),
+    "pr_name" : "ຫົວພັນ",
+    "pr_name_en" : "Houaphan"
+}
+{
+    "_id" : ObjectId("63b6beaaf6ac9a6a99e71ca8"),
+    "pr_name" : "ອັດຕະປື",
+    "pr_name_en" : "Attapu"
+}
+{
+    "_id" : ObjectId("63b6beaa611c4889d22714d6"),
+    "pr_name" : "ໄຊສົມບູນ",
+    "pr_name_en" : "Sisomboun"
+}
+{
+    "_id" : ObjectId("63b6beaadd3072ea5076e702"),
+    "pr_name" : "ບໍລິຄຳໄຊ",
+    "pr_name_en" : "Boli khamxai"
+}

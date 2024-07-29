@@ -1,0 +1,888 @@
+{
+    "_id" : ObjectId("63b6beaa77a0d078886f1f68"),
+    "name" : "ໄຊທານີ",
+    "nameEn" : "Xaythany",
+    "province" : ObjectId("63b6beaaeb76f67f4f3cff9d")
+}
+{
+    "_id" : ObjectId("63b6beaa0b821adc9bd25024"),
+    "name" : "ແບງ",
+    "nameEn" : "Beng",
+    "province" : ObjectId("63b6beaa2f55c5298a04cd37")
+}
+{
+    "_id" : ObjectId("63b6beaa79ac6d8bfc98f48b"),
+    "name" : "ໃຫມ່",
+    "nameEn" : "May",
+    "province" : ObjectId("63b6beaa4b1f9a8111e2387a")
+}
+{
+    "_id" : ObjectId("63b6beaada7cb20667386036"),
+    "name" : "ສິງ",
+    "nameEn" : "Sing",
+    "province" : ObjectId("63b6beaac2dade111c9c2c42")
+}
+{
+    "_id" : ObjectId("63b6beaa3f2a48a9a72ee9ad"),
+    "name" : "ຂວາ",
+    "nameEn" : "Khua",
+    "province" : ObjectId("63b6beaa4b1f9a8111e2387a")
+}
+{
+    "_id" : ObjectId("63b6beaa8fb122bd1c8b4c0b"),
+    "name" : "ຫຼວງພະບາງ",
+    "nameEn" : "Luangprabang",
+    "province" : ObjectId("63b6beaa6f7379e3e762ec18")
+}
+{
+    "_id" : ObjectId("63b6beaa47f4f8e6a0b146a5"),
+    "name" : "ຕົ້ນເຜິ້ງ",
+    "nameEn" : "Tongpheung",
+    "province" : ObjectId("63b6beaab2ea9dc3e02f2da2")
+}
+{
+    "_id" : ObjectId("63b6beaaec54335fff707a36"),
+    "name" : "ບູນໃຕ້",
+    "nameEn" : "Boontai",
+    "province" : ObjectId("63b6beaa4b1f9a8111e2387a")
+}
+{
+    "_id" : ObjectId("63b6beaaae40e140560db72a"),
+    "name" : "ວຽງພູຄາ",
+    "nameEn" : "Viengphoukha",
+    "province" : ObjectId("63b6beaac2dade111c9c2c42")
+}
+{
+    "_id" : ObjectId("63b6beaac2eeb634b7f89e30"),
+    "name" : "ນານ",
+    "nameEn" : "Nan",
+    "province" : ObjectId("63b6beaa6f7379e3e762ec18")
+}
+{
+    "_id" : ObjectId("63b6beaad75db9470d9ed9e3"),
+    "name" : "ງອຍ",
+    "nameEn" : "Ngoi",
+    "province" : ObjectId("63b6beaa6f7379e3e762ec18")
+}
+{
+    "_id" : ObjectId("63b6beaa2719522941926da3"),
+    "name" : "ຄອບ",
+    "nameEn" : "Khop",
+    "province" : ObjectId("63b6beaa332a0336e2da3298")
+}
+{
+    "_id" : ObjectId("63b6beaa79326525af6c6d63"),
+    "name" : "ຊຽງຮ່ອນ",
+    "nameEn" : "Xienghone",
+    "province" : ObjectId("63b6beaa332a0336e2da3298")
+}
+{
+    "_id" : ObjectId("63b6beaa93859ff0608a267b"),
+    "name" : "ກະລືມ",
+    "nameEn" : "Kaleum",
+    "province" : ObjectId("63b6beaa43cfbd28e9ac7c7a")
+}
+{
+    "_id" : ObjectId("63b6beaacad32e2eda637221"),
+    "name" : "ລ້ອງແຈ້ງ",
+    "nameEn" : "Longcheng",
+    "province" : ObjectId("63b6beaa611c4889d22714d6")
+}
+{
+    "_id" : ObjectId("63b6beaa54c2c97781648913"),
+    "name" : "ນ້ຳບາກ",
+    "nameEn" : "Nambak",
+    "province" : ObjectId("63b6beaa6f7379e3e762ec18")
+}
+{
+    "_id" : ObjectId("63b6beaa1a32c5f9a7985900"),
+    "name" : "ພູຄູນ",
+    "nameEn" : "Phoukhoune",
+    "province" : ObjectId("63b6beaa6f7379e3e762ec18")
+}
+{
+    "_id" : ObjectId("63b6beaa38494c82ed83d3a1"),
+    "name" : "ຮ້ຽມ",
+    "nameEn" : "Hiam",
+    "province" : ObjectId("63b6beaa157a430ad1cd4ea8")
+}
+{
+    "_id" : ObjectId("63b6beaabace85598e14057a"),
+    "name" : "ເງິນ",
+    "nameEn" : "Ngeun",
+    "province" : ObjectId("63b6beaa332a0336e2da3298")
+}
+{
+    "_id" : ObjectId("63b6beaa9b89e7790532c41a"),
+    "name" : "ແກ້ວອຸດົມ",
+    "nameEn" : "Keooudom",
+    "province" : ObjectId("63b6beaaa2a7f704f2eb3cb0")
+}
+{
+    "_id" : ObjectId("63b6beaaff8e2cdb7f4ee7c6"),
+    "name" : "ປາກຊັນ",
+    "nameEn" : "Pakxane",
+    "province" : ObjectId("63b6beaadd3072ea5076e702")
+}
+{
+    "_id" : ObjectId("63b6beaa16e9c9ddd13cc609"),
+    "name" : "ນາກາຍ",
+    "nameEn" : "Nakai",
+    "province" : ObjectId("63b6beaa040e169aa51144be")
+}
+{
+    "_id" : ObjectId("63b6beaaa2bbb8a5b0dcb460"),
+    "name" : "ເຊໂປນ",
+    "nameEn" : "Xepon",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaa689940aaa2732892"),
+    "name" : "ອາດສະພອນ",
+    "nameEn" : "Atsaphone",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaa537a6fe85a214b4b"),
+    "name" : "ພູວົງ",
+    "nameEn" : "Phouvong",
+    "province" : ObjectId("63b6beaaf6ac9a6a99e71ca8")
+}
+{
+    "_id" : ObjectId("63b6beaa96c6ba454fab2a5c"),
+    "name" : "ສັງທອງ",
+    "nameEn" : "Sangthong",
+    "province" : ObjectId("63b6beaaeb76f67f4f3cff9d")
+}
+{
+    "_id" : ObjectId("63b6beaadd83bc7095f1b434"),
+    "name" : "ໄຊ",
+    "nameEn" : "Xay",
+    "province" : ObjectId("63b6beaa2f55c5298a04cd37")
+}
+{
+    "_id" : ObjectId("63b6beaa1fb1c5138d019f50"),
+    "name" : "ຜາອຸດົມ",
+    "nameEn" : "Phaoudom",
+    "province" : ObjectId("63b6beaab2ea9dc3e02f2da2")
+}
+{
+    "_id" : ObjectId("63b6beaa5b20530e210ce1cc"),
+    "name" : "ປາກແຊງ",
+    "nameEn" : "Pakxeng",
+    "province" : ObjectId("63b6beaa6f7379e3e762ec18")
+}
+{
+    "_id" : ObjectId("63b6beaa9c0b1c77aa1ab050"),
+    "name" : "ແອດ",
+    "nameEn" : "Add",
+    "province" : ObjectId("63b6beaa157a430ad1cd4ea8")
+}
+{
+    "_id" : ObjectId("63b6beaaa0a18b8777346bf3"),
+    "name" : "ວຽງທອງ",
+    "nameEn" : "Viengthong",
+    "province" : ObjectId("63b6beaadd3072ea5076e702")
+}
+{
+    "_id" : ObjectId("63b6beaadf29c49bd6993f79"),
+    "name" : "ນອງ",
+    "nameEn" : "Nong",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaab4aea506195a7e00"),
+    "name" : "ຈຳພອນ",
+    "nameEn" : "Champhone",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaabb31d084997bf192"),
+    "name" : "ເລົ່າງາມ",
+    "nameEn" : "Lao ngarm",
+    "province" : ObjectId("63b6beaa254566578fab968a")
+}
+{
+    "_id" : ObjectId("63b6beaa43dec991cb5e4086"),
+    "name" : "ທ່າແຕງ",
+    "nameEn" : "Thateng",
+    "province" : ObjectId("63b6beaa43cfbd28e9ac7c7a")
+}
+{
+    "_id" : ObjectId("63b6beaa5471bb6d1ba8b00f"),
+    "name" : "ໄຊເສດຖາ",
+    "nameEn" : "Xaysetha",
+    "province" : ObjectId("63b6beaaeb76f67f4f3cff9d")
+}
+{
+    "_id" : ObjectId("63b6beaa3d27b780e4c27e8d"),
+    "name" : "ສົບເບົາ",
+    "nameEn" : "Sopbao",
+    "province" : ObjectId("63b6beaa157a430ad1cd4ea8")
+}
+{
+    "_id" : ObjectId("63b6beaa7b376037af039928"),
+    "name" : "ພຽງ",
+    "nameEn" : "Phieng",
+    "province" : ObjectId("63b6beaa332a0336e2da3298")
+}
+{
+    "_id" : ObjectId("63b6beaa450b1e87a40aa5ad"),
+    "name" : "ກາສີ",
+    "nameEn" : "Kasy",
+    "province" : ObjectId("63b6beaaa2a7f704f2eb3cb0")
+}
+{
+    "_id" : ObjectId("63b6beaa3ee8b092a9528b6a"),
+    "name" : "ທ່າພະບາດ",
+    "nameEn" : "Thaphabath",
+    "province" : ObjectId("63b6beaadd3072ea5076e702")
+}
+{
+    "_id" : ObjectId("63b6beaa0401df28e2823af2"),
+    "name" : "ຫີນບູນ",
+    "nameEn" : "Hinboon",
+    "province" : ObjectId("63b6beaa040e169aa51144be")
+}
+{
+    "_id" : ObjectId("63b6beaa0ff99cc068405e70"),
+    "name" : "ໄຊບົວທອງ",
+    "nameEn" : "Xaybuathong",
+    "province" : ObjectId("63b6beaa040e169aa51144be")
+}
+{
+    "_id" : ObjectId("63b6beaa255d493bb6ef6cab"),
+    "name" : "ວາປີ",
+    "nameEn" : "Vapy",
+    "province" : ObjectId("63b6beaa254566578fab968a")
+}
+{
+    "_id" : ObjectId("63b6beaab356d00c35edf8ee"),
+    "name" : "ສຳພັນ",
+    "nameEn" : "Samphanh",
+    "province" : ObjectId("63b6beaa4b1f9a8111e2387a")
+}
+{
+    "_id" : ObjectId("63b6beaa570440cfc694cdc3"),
+    "name" : "ສີໂຄດຕະບອງ",
+    "nameEn" : "Sikhottabong",
+    "province" : ObjectId("63b6beaaeb76f67f4f3cff9d")
+}
+{
+    "_id" : ObjectId("63b6beaa4d72b964dc963b91"),
+    "name" : "ນາໝໍ້ ",
+    "nameEn" : "Namor",
+    "province" : ObjectId("63b6beaa2f55c5298a04cd37")
+}
+{
+    "_id" : ObjectId("63b6beaab3591f5c47362569"),
+    "name" : "ວຽງຄຳ",
+    "nameEn" : "Viengkham",
+    "province" : ObjectId("63b6beaa6f7379e3e762ec18")
+}
+{
+    "_id" : ObjectId("63b6beaaae0bde489f1ed3dd"),
+    "name" : "ແມດ",
+    "nameEn" : "Mad",
+    "province" : ObjectId("63b6beaaa2a7f704f2eb3cb0")
+}
+{
+    "_id" : ObjectId("63b6beaa38f729b44f31d788"),
+    "name" : "ພີນ",
+    "nameEn" : "Phine",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaa94fb316bc5886e61"),
+    "name" : "ປະທຸມພອນ",
+    "nameEn" : "Pathoumphone",
+    "province" : ObjectId("63b6beaa1fa409684ce03607")
+}
+{
+    "_id" : ObjectId("63b6beaad2a09f4c5002c9ec"),
+    "name" : "ໂພນທອງ",
+    "nameEn" : "Phonthong",
+    "province" : ObjectId("63b6beaa1fa409684ce03607")
+}
+{
+    "_id" : ObjectId("63b6beaaba7278766022ff44"),
+    "name" : "ສານໄຊ",
+    "nameEn" : "Sanxay",
+    "province" : ObjectId("63b6beaaf6ac9a6a99e71ca8")
+}
+{
+    "_id" : ObjectId("63b6beaabf2c38b0692e458e"),
+    "name" : "ປາກທາ",
+    "nameEn" : "Paktha",
+    "province" : ObjectId("63b6beaab2ea9dc3e02f2da2")
+}
+{
+    "_id" : ObjectId("63b6beaae639edfe2544a08e"),
+    "name" : "ຄຳ",
+    "nameEn" : "Kham",
+    "province" : ObjectId("63b6beaa0668a43f906d9957")
+}
+{
+    "_id" : ObjectId("63b6beaa9cd4a99e4035f852"),
+    "name" : "ເຟືອງ",
+    "nameEn" : "Feuang",
+    "province" : ObjectId("63b6beaaa2a7f704f2eb3cb0")
+}
+{
+    "_id" : ObjectId("63b6beaaa838c170df710b9c"),
+    "name" : "ຕຸ້ມລານ",
+    "nameEn" : "Toomlam",
+    "province" : ObjectId("63b6beaa254566578fab968a")
+}
+{
+    "_id" : ObjectId("63b6beaaeeefe6e7ad1fb8e6"),
+    "name" : "ຊະນະສົມບູນ",
+    "nameEn" : "Sanasomboon",
+    "province" : ObjectId("63b6beaa1fa409684ce03607")
+}
+{
+    "_id" : ObjectId("63b6beaa49788384d03d476d"),
+    "name" : "ທ່າໂທມ",
+    "nameEn" : "Thathom",
+    "province" : ObjectId("63b6beaa611c4889d22714d6")
+}
+{
+    "_id" : ObjectId("63b6beaa29bc474c40058c0d"),
+    "name" : "ປາກແບງ",
+    "nameEn" : "Pakbeng",
+    "province" : ObjectId("63b6beaa2f55c5298a04cd37")
+}
+{
+    "_id" : ObjectId("63b6beaa11c19969a1de94bf"),
+    "name" : "ເມິງ",
+    "nameEn" : "Meung",
+    "province" : ObjectId("63b6beaab2ea9dc3e02f2da2")
+}
+{
+    "_id" : ObjectId("63b6beaa9af08c81ee2b50a3"),
+    "name" : "ຊຳເໜືອ",
+    "nameEn" : "Xamneua",
+    "province" : ObjectId("63b6beaa157a430ad1cd4ea8")
+}
+{
+    "_id" : ObjectId("63b6beaa0747806bfb968eec"),
+    "name" : "ຫົງສາ",
+    "nameEn" : "Hongsa",
+    "province" : ObjectId("63b6beaa332a0336e2da3298")
+}
+{
+    "_id" : ObjectId("63b6beaa4c012b1807fc4868"),
+    "name" : "ທົ່ງມີໄຊ",
+    "nameEn" : "Thongmyxay",
+    "province" : ObjectId("63b6beaa332a0336e2da3298")
+}
+{
+    "_id" : ObjectId("63b6beaa08fb93dcfe6d1129"),
+    "name" : "ໜອງແຮດ",
+    "nameEn" : "Nonghed",
+    "province" : ObjectId("63b6beaa0668a43f906d9957")
+}
+{
+    "_id" : ObjectId("63b6beaaf970c49c59396418"),
+    "name" : "ໝອກ",
+    "nameEn" : "Mork",
+    "province" : ObjectId("63b6beaa0668a43f906d9957")
+}
+{
+    "_id" : ObjectId("63b6beaa543c7b995a8a12e1"),
+    "name" : "ວຽງຄຳ",
+    "nameEn" : "Viengkham",
+    "province" : ObjectId("63b6beaaa2a7f704f2eb3cb0")
+}
+{
+    "_id" : ObjectId("63b6beaa37b1a2679b73fcf1"),
+    "name" : "ບໍລິຄັນ",
+    "nameEn" : "Bolikhanh",
+    "province" : ObjectId("63b6beaadd3072ea5076e702")
+}
+{
+    "_id" : ObjectId("63b6beaa517aa0c99f51a8f3"),
+    "name" : "ໜອງບົກ",
+    "nameEn" : "Nongbok",
+    "province" : ObjectId("63b6beaa040e169aa51144be")
+}
+{
+    "_id" : ObjectId("63b6beaad3ebcaec8ff8dd43"),
+    "name" : "ສອງຄອນ",
+    "nameEn" : "Songkhone",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaae6bec42b7ccc702a"),
+    "name" : "ໄຊພູທອງ",
+    "nameEn" : "Xayphoothong",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaa7ed39d7192cf1b2e"),
+    "name" : "ສະມ້ວຍ",
+    "nameEn" : "Samoi",
+    "province" : ObjectId("63b6beaa254566578fab968a")
+}
+{
+    "_id" : ObjectId("63b6beaab733434d4750d411"),
+    "name" : "ປາກເຊ",
+    "nameEn" : "Pakse",
+    "province" : ObjectId("63b6beaa1fa409684ce03607")
+}
+{
+    "_id" : ObjectId("63b6beaa9ab9b8e7e8b7d35f"),
+    "name" : "ສຸຂຸມາ",
+    "nameEn" : "Sukhuma",
+    "province" : ObjectId("63b6beaa1fa409684ce03607")
+}
+{
+    "_id" : ObjectId("63b6beaa0e95487e0b514379"),
+    "name" : "ສີສັດຕະນາກ",
+    "nameEn" : "Sisattanak",
+    "province" : ObjectId("63b6beaaeb76f67f4f3cff9d")
+}
+{
+    "_id" : ObjectId("63b6beaaaec2f89798f1210f"),
+    "name" : "ຫາດຊາຍຟອງ",
+    "nameEn" : "Hadxaifong",
+    "province" : ObjectId("63b6beaaeb76f67f4f3cff9d")
+}
+{
+    "_id" : ObjectId("63b6beaa72f1d115cefa7e67"),
+    "name" : "ຊຽງເງິນ",
+    "nameEn" : "Xiengngeun",
+    "province" : ObjectId("63b6beaa6f7379e3e762ec18")
+}
+{
+    "_id" : ObjectId("63b6beaa04ff8109222a77f3"),
+    "name" : "ໂພນໄຊ",
+    "nameEn" : "Phonxay",
+    "province" : ObjectId("63b6beaa6f7379e3e762ec18")
+}
+{
+    "_id" : ObjectId("63b6beaa9dad3235ad3bd8cf"),
+    "name" : "ຊຽງຄໍ້",
+    "nameEn" : "Xiengkhor",
+    "province" : ObjectId("63b6beaa157a430ad1cd4ea8")
+}
+{
+    "_id" : ObjectId("63b6beaa66e48314fda8a63d"),
+    "name" : "ຊອນ",
+    "nameEn" : "Xone",
+    "province" : ObjectId("63b6beaa157a430ad1cd4ea8")
+}
+{
+    "_id" : ObjectId("63b6beaab2162a3f413cc3ab"),
+    "name" : "ປາກລາຍ",
+    "nameEn" : "Parklai",
+    "province" : ObjectId("63b6beaa332a0336e2da3298")
+}
+{
+    "_id" : ObjectId("63b6beaaf5ca809791a7dab6"),
+    "name" : "ວັງວຽງ",
+    "nameEn" : "Vangvieng",
+    "province" : ObjectId("63b6beaaa2a7f704f2eb3cb0")
+}
+{
+    "_id" : ObjectId("63b6beaaaefe984ce3d4d07a"),
+    "name" : "ຊະນະຄາມ",
+    "nameEn" : "Xanakham",
+    "province" : ObjectId("63b6beaaa2a7f704f2eb3cb0")
+}
+{
+    "_id" : ObjectId("63b6beaab7265002a87df453"),
+    "name" : "ໝື່ນ",
+    "nameEn" : "Meun",
+    "province" : ObjectId("63b6beaaa2a7f704f2eb3cb0")
+}
+{
+    "_id" : ObjectId("63b6beaab0b20bb7768309d6"),
+    "name" : "ໄຊຈຳພອນ",
+    "nameEn" : "Xaychamphone",
+    "province" : ObjectId("63b6beaadd3072ea5076e702")
+}
+{
+    "_id" : ObjectId("63b6beaa4195ab0da5815762"),
+    "name" : "ຊົນບູລີ",
+    "nameEn" : "Xonbuly",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaab4224a1212dd5bd3"),
+    "name" : "ສາລະວັນ",
+    "nameEn" : "Saravane",
+    "province" : ObjectId("63b6beaa254566578fab968a")
+}
+{
+    "_id" : ObjectId("63b6beaa11d53f7d19cf1af4"),
+    "name" : "ຈຳປາສັກ",
+    "nameEn" : "Champasak",
+    "province" : ObjectId("63b6beaa1fa409684ce03607")
+}
+{
+    "_id" : ObjectId("63b6beaa2ce742acb05fe666"),
+    "name" : "ລ້ອງຊານ",
+    "nameEn" : "Longsan",
+    "province" : ObjectId("63b6beaa611c4889d22714d6")
+}
+{
+    "_id" : ObjectId("63b6beaa44b4cc9abe5ebe66"),
+    "name" : "ປາກງື່ມ",
+    "nameEn" : "Parkngum",
+    "province" : ObjectId("63b6beaaeb76f67f4f3cff9d")
+}
+{
+    "_id" : ObjectId("63b6beaa586928060de9261c"),
+    "name" : "ຮຸນ",
+    "nameEn" : "Hoon",
+    "province" : ObjectId("63b6beaa2f55c5298a04cd37")
+}
+{
+    "_id" : ObjectId("63b6beaaeef7935f3aceda27"),
+    "name" : "ແກ່ນທ້າວ",
+    "nameEn" : "Kenethao",
+    "province" : ObjectId("63b6beaa332a0336e2da3298")
+}
+{
+    "_id" : ObjectId("63b6beaa3607ea8b7da95129"),
+    "name" : "ປາກກະດິງ",
+    "nameEn" : "Pakkading",
+    "province" : ObjectId("63b6beaadd3072ea5076e702")
+}
+{
+    "_id" : ObjectId("63b6beaa08d4ebd018eeba75"),
+    "name" : "ດາກຈຶງ",
+    "nameEn" : "Dakcheung",
+    "province" : ObjectId("63b6beaa43cfbd28e9ac7c7a")
+}
+{
+    "_id" : ObjectId("63b6beaa78fca9eae62adbc7"),
+    "name" : "ສະໜາມໄຊ",
+    "nameEn" : "Sanamxay",
+    "province" : ObjectId("63b6beaaf6ac9a6a99e71ca8")
+}
+{
+    "_id" : ObjectId("63b6beaa8edc97efeaed7fe3"),
+    "name" : "ບູນເຫນືອ",
+    "nameEn" : "Bounneua",
+    "province" : ObjectId("63b6beaa4b1f9a8111e2387a")
+}
+{
+    "_id" : ObjectId("63b6beaafb11bc1b6e535f75"),
+    "name" : "ລອງ",
+    "nameEn" : "Long",
+    "province" : ObjectId("63b6beaac2dade111c9c2c42")
+}
+{
+    "_id" : ObjectId("63b6beaa2f326d4044774b7d"),
+    "name" : "ງາ",
+    "nameEn" : "Nga",
+    "province" : ObjectId("63b6beaa2f55c5298a04cd37")
+}
+{
+    "_id" : ObjectId("63b6beaacfcf89e6ec0b3481"),
+    "name" : "ຫ້ວຍຊາຍ",
+    "nameEn" : "Houixay",
+    "province" : ObjectId("63b6beaab2ea9dc3e02f2da2")
+}
+{
+    "_id" : ObjectId("63b6beaabc998a14173be89f"),
+    "name" : "ຄູນ",
+    "nameEn" : "Khoune",
+    "province" : ObjectId("63b6beaa0668a43f906d9957")
+}
+{
+    "_id" : ObjectId("63b6beaa4ff74198d3cd787e"),
+    "name" : "ທຸລະຄົມ",
+    "nameEn" : "Thoulakhom",
+    "province" : ObjectId("63b6beaaa2a7f704f2eb3cb0")
+}
+{
+    "_id" : ObjectId("63b6beaa082062e76a63de03"),
+    "name" : "ທ່າປາງທອງ",
+    "nameEn" : "Thapangthong",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaa8946ab2a1df7ff66"),
+    "name" : "ລະຄອນເພັງ",
+    "nameEn" : "Lakhonepheng",
+    "province" : ObjectId("63b6beaa254566578fab968a")
+}
+{
+    "_id" : ObjectId("63b6beaa1ec59647d2db6375"),
+    "name" : "ປາກຊ່ອງ",
+    "nameEn" : "Pakxong",
+    "province" : ObjectId("63b6beaa1fa409684ce03607")
+}
+{
+    "_id" : ObjectId("63b6beaa7ef480aff04075f8"),
+    "name" : "ນາຊາຍທອງ",
+    "nameEn" : "Naxaithong",
+    "province" : ObjectId("63b6beaaeb76f67f4f3cff9d")
+}
+{
+    "_id" : ObjectId("63b6beaa80c0cf61c58583cb"),
+    "name" : "ໄຊຍະບູລີ",
+    "nameEn" : "Xayabury",
+    "province" : ObjectId("63b6beaa332a0336e2da3298")
+}
+{
+    "_id" : ObjectId("63b6beaa7d604bc8889c0743"),
+    "name" : "ປາກອູ",
+    "nameEn" : "Parkou",
+    "province" : ObjectId("63b6beaa6f7379e3e762ec18")
+}
+{
+    "_id" : ObjectId("63b6beaa2af9cac2729c2246"),
+    "name" : "ຫົວເມືອງ",
+    "nameEn" : "Huameuang",
+    "province" : ObjectId("63b6beaa157a430ad1cd4ea8")
+}
+{
+    "_id" : ObjectId("63b6beaad4a1cf7b3e147c39"),
+    "name" : "ໄຊຊະຖານ",
+    "nameEn" : "Xaysathan",
+    "province" : ObjectId("63b6beaa332a0336e2da3298")
+}
+{
+    "_id" : ObjectId("63b6beaa857acc1d7b1713dd"),
+    "name" : "ຜາໄຊ",
+    "nameEn" : "Phaxay",
+    "province" : ObjectId("63b6beaa0668a43f906d9957")
+}
+{
+    "_id" : ObjectId("63b6beaa04286c23aa019ecb"),
+    "name" : "ລະມາມ",
+    "nameEn" : "Lamarm",
+    "province" : ObjectId("63b6beaa43cfbd28e9ac7c7a")
+}
+{
+    "_id" : ObjectId("63b6beaa3313eadad5d20ba1"),
+    "name" : "ມຸນລະປະໂມກ",
+    "nameEn" : "Moonlapamok",
+    "province" : ObjectId("63b6beaa1fa409684ce03607")
+}
+{
+    "_id" : ObjectId("63b6beaac7d022b04bc25471"),
+    "name" : "ໄຊເສດຖາ",
+    "nameEn" : "Xaysettha",
+    "province" : ObjectId("63b6beaaf6ac9a6a99e71ca8")
+}
+{
+    "_id" : ObjectId("63b6beaa580bbe84bdda0951"),
+    "name" : "ຈັນທະບູລີ",
+    "nameEn" : "Chanthabuly",
+    "province" : ObjectId("63b6beaaeb76f67f4f3cff9d")
+}
+{
+    "_id" : ObjectId("63b6beaa4abcc3c96ce7e192"),
+    "name" : "ຍອດອູ",
+    "nameEn" : "Nhot ou",
+    "province" : ObjectId("63b6beaa4b1f9a8111e2387a")
+}
+{
+    "_id" : ObjectId("63b6beaa75a2c7572c84ea98"),
+    "name" : "ຫລວງນ້ຳທາ",
+    "nameEn" : "Luangnamtha",
+    "province" : ObjectId("63b6beaac2dade111c9c2c42")
+}
+{
+    "_id" : ObjectId("63b6beaa47eec83cd3060d92"),
+    "name" : "ໂພນທອງ",
+    "nameEn" : "Phonthong",
+    "province" : ObjectId("63b6beaa6f7379e3e762ec18")
+}
+{
+    "_id" : ObjectId("63b6beaa73a1eac6fefe0bb1"),
+    "name" : "ຊຳໃຕ້",
+    "nameEn" : "Xamtay",
+    "province" : ObjectId("63b6beaa157a430ad1cd4ea8")
+}
+{
+    "_id" : ObjectId("63b6beaaca1ef1ec4ae6b38a"),
+    "name" : "ຫີນເຫີບ",
+    "nameEn" : "Hinherb",
+    "province" : ObjectId("63b6beaaa2a7f704f2eb3cb0")
+}
+{
+    "_id" : ObjectId("63b6beaa135acabcb51759f7"),
+    "name" : "ຄູນຄຳ",
+    "nameEn" : "Khounkham",
+    "province" : ObjectId("63b6beaa040e169aa51144be")
+}
+{
+    "_id" : ObjectId("63b6beaa3fda055bdbeb262e"),
+    "name" : "ພະລານໄຊ",
+    "nameEn" : "Phalanxay",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaae7fdf4b8e05b82c1"),
+    "name" : "ຕາໂອ້ຍ",
+    "nameEn" : "Ta oi",
+    "province" : ObjectId("63b6beaa254566578fab968a")
+}
+{
+    "_id" : ObjectId("63b6beaa16bc6da1f04ae1ce"),
+    "name" : "ໂຂງ",
+    "nameEn" : "Khong",
+    "province" : ObjectId("63b6beaa1fa409684ce03607")
+}
+{
+    "_id" : ObjectId("63b6beaa575bf6fd39c8db70"),
+    "name" : "ອາດສະພັງທອງ",
+    "nameEn" : "Atsaphangthong",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaad629b367b88cfe90"),
+    "name" : "ໄຊບູລີ",
+    "nameEn" : "Xaybouly",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaa45f1954fb07fd10d"),
+    "name" : "ຄົງເຊໂດນ",
+    "nameEn" : "Kongxedone",
+    "province" : ObjectId("63b6beaa254566578fab968a")
+}
+{
+    "_id" : ObjectId("63b6beaa2ed12f1cbd507876"),
+    "name" : "ບາຈຽງຈະເລີນສຸກ",
+    "nameEn" : "Bachiangchaleunsook",
+    "province" : ObjectId("63b6beaa1fa409684ce03607")
+}
+{
+    "_id" : ObjectId("63b6beaa2ff61c8c743bfa63"),
+    "name" : "ຮົ່ມ",
+    "nameEn" : "Hom",
+    "province" : ObjectId("63b6beaa611c4889d22714d6")
+}
+{
+    "_id" : ObjectId("63b6beaa8de203cc589d1089"),
+    "name" : "ຜົ້ງສາລີ",
+    "nameEn" : "Phongsaly",
+    "province" : ObjectId("63b6beaa4b1f9a8111e2387a")
+}
+{
+    "_id" : ObjectId("63b6beaa31e45aa50e47172a"),
+    "name" : "ນາແລ",
+    "nameEn" : "Nalae",
+    "province" : ObjectId("63b6beaac2dade111c9c2c42")
+}
+{
+    "_id" : ObjectId("63b6beaadeec7494e430375d"),
+    "name" : "ຫລາ",
+    "nameEn" : "La",
+    "province" : ObjectId("63b6beaa2f55c5298a04cd37")
+}
+{
+    "_id" : ObjectId("63b6beaaf5edc26c59863ebb"),
+    "name" : "ຍົມມະລາດ",
+    "nameEn" : "Nhommalath",
+    "province" : ObjectId("63b6beaa040e169aa51144be")
+}
+{
+    "_id" : ObjectId("63b6beaa887f1dd69628c2dc"),
+    "name" : "ເຊບັ້ງໄຟ",
+    "nameEn" : "Xebangfay",
+    "province" : ObjectId("63b6beaa040e169aa51144be")
+}
+{
+    "_id" : ObjectId("63b6beaa1ba3b45504736071"),
+    "name" : "ອຸທຸມພອນ",
+    "nameEn" : "Outhoumphone",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaa3f99533f3414f365"),
+    "name" : "ວິລະບູລີ",
+    "nameEn" : "Vilabuly",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaa7b12395177a80ebe"),
+    "name" : "ຈອມເພັດ",
+    "nameEn" : "Chomphet",
+    "province" : ObjectId("63b6beaa6f7379e3e762ec18")
+}
+{
+    "_id" : ObjectId("63b6beaa6e31c03ba6c29af1"),
+    "name" : "ວຽງໄຊ",
+    "nameEn" : "Viengxay",
+    "province" : ObjectId("63b6beaa157a430ad1cd4ea8")
+}
+{
+    "_id" : ObjectId("63b6beaa24a6c314d037bb6c"),
+    "name" : "ກວັນ",
+    "nameEn" : "Kuan",
+    "province" : ObjectId("63b6beaa157a430ad1cd4ea8")
+}
+{
+    "_id" : ObjectId("63b6beaa054e3beb3157d96f"),
+    "name" : "ບໍ່ແຕນ",
+    "nameEn" : "Botene",
+    "province" : ObjectId("63b6beaa332a0336e2da3298")
+}
+{
+    "_id" : ObjectId("63b6beaa8d1b2c41180207aa"),
+    "name" : "ໂພນໂຮງ",
+    "nameEn" : "Phonhong",
+    "province" : ObjectId("63b6beaaa2a7f704f2eb3cb0")
+}
+{
+    "_id" : ObjectId("63b6beaaf0a1c80618959b27"),
+    "name" : "ຄຳເກີດ",
+    "nameEn" : "Khamkheuth",
+    "province" : ObjectId("63b6beaadd3072ea5076e702")
+}
+{
+    "_id" : ObjectId("63b6beaa1f02b4354b4b343b"),
+    "name" : "ທ່າແຂກ",
+    "nameEn" : "Thakhek",
+    "province" : ObjectId("63b6beaa040e169aa51144be")
+}
+{
+    "_id" : ObjectId("63b6beaa0f3c17061f5bc0af"),
+    "name" : "ໄກສອນ ພົມວິຫານ",
+    "nameEn" : "Kaisone Phomvihane",
+    "province" : ObjectId("63b6beaa74c58803fc7bb311")
+}
+{
+    "_id" : ObjectId("63b6beaa98d963ad567ad9a3"),
+    "name" : "ແປກ",
+    "nameEn" : "Pek",
+    "province" : ObjectId("63b6beaa0668a43f906d9957")
+}
+{
+    "_id" : ObjectId("63b6beaaa8680189a8ded1da"),
+    "name" : "ພູກູດ",
+    "nameEn" : "Phookood",
+    "province" : ObjectId("63b6beaa0668a43f906d9957")
+}
+{
+    "_id" : ObjectId("63b6beaabde3db3d85aa8cc5"),
+    "name" : "ມະຫາໄຊ",
+    "nameEn" : "Mahaxay",
+    "province" : ObjectId("63b6beaa040e169aa51144be")
+}
+{
+    "_id" : ObjectId("63b6beaa5b4ccda82e4e2f91"),
+    "name" : "ບົວລະພາ",
+    "nameEn" : "Bualapha",
+    "province" : ObjectId("63b6beaa040e169aa51144be")
+}
+{
+    "_id" : ObjectId("63b6beaa265ea555d239e63e"),
+    "name" : "ສາມະຄີໄຊ",
+    "nameEn" : "Samakkixay",
+    "province" : ObjectId("63b6beaaf6ac9a6a99e71ca8")
+}
+{
+    "_id" : ObjectId("63b6beaadbb6f516daa5a85a"),
+    "name" : "ອານຸວົງ",
+    "nameEn" : "Anouvong",
+    "province" : ObjectId("63b6beaa611c4889d22714d6")
+}
